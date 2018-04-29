@@ -1,7 +1,7 @@
 <?php
-include '../database2.php';
+include '../herokudb.php';
 
-$conn = getDatabaseConnection("lab8");
+$conn = getDatabaseConnection("heroku_5c9c64faca709c7");
 
 $username = $_GET['username'];
 //net query allows SQL Injection!
