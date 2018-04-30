@@ -1,5 +1,5 @@
 <?php
-include '../herokudb.php';
+include 'herokudb.php';
 
 $conn = getDatabaseConnection("heroku_154b829b8c54258");
 

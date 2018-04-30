@@ -2,7 +2,7 @@
 function getDatabaseConnection($dbName) {
     $host = "us-cdbr-iron-east-05.cleardb.net";
     $db = $dbName;
-    $user = "b57418a11ae169";
+    $user = "be784b3cb25ab4";
     $pass = "86d2cbc7";
     $charset = "utf8mb4"; 
     
